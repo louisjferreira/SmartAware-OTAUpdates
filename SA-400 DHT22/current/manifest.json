@@ -5,7 +5,7 @@
     {
       "chipFamily": "ESP32-C3",
       "ota": {
-        "md5": "bf1890149a97a762dcf5e84734e394d0",
+        "md5": "EB5589D1A1310A2BAFED037BB01780D7",
         "path": "sa-400-test-dht22-firmware.ota.bin",
         "summary": "SA-400 DHT22 test firmware for ESP32-C3 with Wi-Fi signal percentage"
       }
