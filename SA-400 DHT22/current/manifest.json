@@ -1,0 +1,14 @@
+{
+  "name": "SmartAware SA-400 Water Tank Level DHT22 Test NodeMCU-32S",
+  "version": "0.1.3-test-dht22-nodemcu32s",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "ota": {
+        "md5": "9713026e37bb045ea94559cafc503068",
+        "path": "sa-400-test-dht22-firmware.ota.bin",
+        "summary": "SA-400 DHT22 test firmware for NodeMCU-32S"
+      }
+    }
+  ]
+}
