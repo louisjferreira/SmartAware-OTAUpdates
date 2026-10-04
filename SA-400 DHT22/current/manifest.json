@@ -1,14 +1,14 @@
 {
-  "name": "SmartAware SA-400 Water Tank Level DHT22 Test",
-  "version": "0.1.3-test-dht22",
-  "builds": [
-    {
-      "chipFamily": "ESP32-C3",
-      "ota": {
-        "md5": "EB5589D1A1310A2BAFED037BB01780D7",
-        "path": "sa-400-test-dht22-firmware.ota.bin",
-        "summary": "SA-400 DHT22 test firmware for ESP32-C3 with Wi-Fi signal percentage"
-      }
-    }
-  ]
+    "name":  "SmartAware SA-400 Water Tank Level DHT22 Test",
+    "version":  "0.1.4-test-dht22",
+    "builds":  [
+                   {
+                       "chipFamily":  "ESP32-C3",
+                       "ota":  {
+                                   "md5":  "0582e22656a5086e8679fe99100ecb1f",
+                                   "path":  "sa-400-test-dht22-firmware.ota.bin",
+                                   "summary":  "SA-400 DHT22 test firmware for ESP32-C3 with Wi-Fi signal percentage"
+                               }
+                   }
+               ]
 }
