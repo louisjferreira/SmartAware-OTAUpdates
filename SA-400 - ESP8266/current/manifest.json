@@ -1,11 +1,11 @@
 {
     "name":  "SmartAware SA-400 Water Tank Level ESP8266",
-    "version":  "0.1.1-esp8266",
+    "version":  "0.1.2-esp8266",
     "builds":  [
                    {
                        "chipFamily":  "ESP8266",
                        "ota":  {
-                                   "md5":  "e26933b44916ad696d51116218e543a2",
+                                   "md5":  "e834013fa55f9d2bd9f31d4bdd0080fb",
                                    "path":  "sa-400-esp8266.ota.bin",
                                    "summary":  "SA-400 ESP8266 firmware update"
                                }
