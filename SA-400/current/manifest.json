@@ -1,0 +1,14 @@
+{
+    "name":  "SmartAware SA-400 Water Tank Level",
+    "version":  "0.1.0-esp32-c3",
+    "builds":  [
+                   {
+                       "chipFamily":  "ESP32-C3",
+                       "ota":  {
+                                   "md5":  "5a6c6ee044117b48d7a01fb41fef16f9",
+                                   "path":  "sa-400-firmware.ota.bin",
+                                   "summary":  "SA-400 firmware update"
+                               }
+                   }
+               ]
+}
