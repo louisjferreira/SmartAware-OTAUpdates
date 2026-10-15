@@ -1,6 +1,6 @@
 {
     "name":  "SmartAware SA-400 Water Tank Level ESP8266",
-    "version":  "v0.1.1-esp8266",
+    "version":  "0.1.1-esp8266",
     "builds":  [
                    {
                        "chipFamily":  "ESP8266",
